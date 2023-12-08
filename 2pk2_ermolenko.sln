@@ -25,11 +25,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pz_11", "pz_11\pz_11.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pz_12", "pz_12\pz_12.csproj", "{107413B5-C433-4DD1-B5F8-AAEB44C500A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pz_13", "pz_13\pz_13.csproj", "{3FAE4387-D64C-4C85-AA0B-698A49BEF494}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pz_13", "pz_13\pz_13.csproj", "{3FAE4387-D64C-4C85-AA0B-698A49BEF494}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pz_14", "pz_14\pz_14.csproj", "{004B729F-D644-45E1-AC98-BD1F3285BC42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pz_14", "pz_14\pz_14.csproj", "{004B729F-D644-45E1-AC98-BD1F3285BC42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pz_15", "pz_15\pz_15.csproj", "{842878FB-C78D-45C4-B995-E9B85FBB1DB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pz_15", "pz_15\pz_15.csproj", "{842878FB-C78D-45C4-B995-E9B85FBB1DB6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "game", "..\game\game\game.csproj", "{03879668-3265-4E05-B423-4DF905AE759F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{842878FB-C78D-45C4-B995-E9B85FBB1DB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{842878FB-C78D-45C4-B995-E9B85FBB1DB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{842878FB-C78D-45C4-B995-E9B85FBB1DB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03879668-3265-4E05-B423-4DF905AE759F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03879668-3265-4E05-B423-4DF905AE759F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03879668-3265-4E05-B423-4DF905AE759F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03879668-3265-4E05-B423-4DF905AE759F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
